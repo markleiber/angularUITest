@@ -1,0 +1,1 @@
+commenting out angularui:ui-calendar in .meteor/packages solves the conflict
