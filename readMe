@@ -1,1 +1,4 @@
-commenting out angularui:ui-calendar in .meteor/packages solves the conflict
+1) clone the repo
+2) meteor npm install --save angular angular-meteor
+3) meteor
+
